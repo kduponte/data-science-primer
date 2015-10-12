@@ -2,8 +2,6 @@
 
 This is a collection of self paced resources for anyone looking to get into data science. The materials assume an absolute beginner and are intended to prepare students for the Galvanize Data Science interview process: http://www.galvanize.com/courses/data-science/ 
 
-![](http://i.giphy.com/5bo8XMq0GROw0.gif)
-
 ## Getting Started
 
 We see many aspiring data scientist come to us from a variety of backgrounds: statisticians, mechanical engineers, political scientists, business analysts, software engineers, etc., etc. We have pretty much seen it all!  And many of these folks come to us with one simple question:
