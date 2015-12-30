@@ -67,6 +67,7 @@ Each sub heading below has two sections, a __Review__ section intended for anyon
   * [A Few Useful Things to know about Machine Learning][16]
 2. In-Depth
   * Andrew Ng Coursera ([online][17] | [archive][18])
+  * [Stanford Statistical Learning][22]
 
 ## Acknowledgements
 
@@ -108,3 +109,4 @@ This resource is intentionally meant to be curated, concise, and compact. It cov
 [19]: http://courses.washington.edu/css490/2012.Winter/CSS490-590-Winter2012-syllabus.html
 [20]: https://www.khanacademy.org
 [21]: http://datasciencemasters.org/
+[22]: https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about
