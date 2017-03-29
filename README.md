@@ -42,8 +42,7 @@ Each sub heading below has two sections, a __Review__ section intended for anyon
   * [MIT: Statistics Cheat Sheet][7]
   * [Hypothesis Testing: The Basics][7.1]
 2. In-Depth
-  * [Khan Academy: Descriptive Statistics][8]
-  * [Khan Academy: Inferential Statistics][9]
+  * [Khan Academy: Statistics and Probability][8]
 
 ### Linear Algebra
 
@@ -91,7 +90,7 @@ This resource is intentionally meant to be curated, concise, and compact. It cov
 
 [7]: http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf
 [7.1]: http://20bits.com/article/hypothesis-testing-the-basics
-[8]: https://www.khanacademy.org/math/probability/descriptive-statistics
+[8]: https://www.khanacademy.org/math/statistics-probability
 [9]: https://www.khanacademy.org/math/probability/statistics-inferential
 
 [10]: resources/linear_algebra.pdf
