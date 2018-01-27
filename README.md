@@ -35,6 +35,7 @@ Each sub heading below has two sections, a __Review__ section intended for anyon
   * [Khan Academy: Independent and Dependent Events][4]
   * [Khan Academy: Probability and Combinatorics][5]
   * [Khan Academy: Random Variables and Probability Distributions][6]
+  
 
 ### Statistics
 
@@ -42,8 +43,12 @@ Each sub heading below has two sections, a __Review__ section intended for anyon
   * [MIT: Statistics Cheat Sheet][7]
   * [Hypothesis Testing: The Basics][7.1]
 2. In-Depth
-  * [Khan Academy: Descriptive Statistics][8]
-  * [Khan Academy: Inferential Statistics][9]
+  * [Khan Academy: Displaying and Describing aata][8.1]
+  * [Khan Academy: Modeling Distributions of data][8.2]
+  * [Khan Academy: Describing relationships in quantitative data][8.3]
+  * [Khan Academy: Confidence Intervals][8.4]
+  * [Khan Academy: Significance Tests][8.5]
+
 
 ### Linear Algebra
 
@@ -91,7 +96,11 @@ This resource is intentionally meant to be curated, concise, and compact. It cov
 
 [7]: http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf
 [7.1]: http://20bits.com/article/hypothesis-testing-the-basics
-[8]: https://www.khanacademy.org/math/probability/descriptive-statistics
+[8.1]: https://www.khanacademy.org/math/statistics-probability/displaying-describing-data
+[8.2]: https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data
+[8.3]: https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data
+[8.4]: https://www.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample
+[8.5]: https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample
 [9]: https://www.khanacademy.org/math/probability/statistics-inferential
 
 [10]: resources/linear_algebra.pdf
